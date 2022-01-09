@@ -1,0 +1,20 @@
+p1 mobile arrived 
+p3 laptop arrived 
+Connection 0: p1 occupied
+Connection 1: p3 occupied
+p4 phone arrived and waiting
+Connection 0: p1 login
+Connection 1: p3 login
+Connection 0: p1 performs online activity
+p2 pc arrived and waiting
+Connection 1: p3 performs online activity
+Connection 0: p1 Logged out
+Connection 1: p3 Logged out
+Connection 0: p4 occupied
+Connection 1: p2 occupied
+Connection 0: p4 login
+Connection 1: p2 login
+Connection 0: p4 performs online activity
+Connection 1: p2 performs online activity
+Connection 0: p4 Logged out
+Connection 1: p2 Logged out
